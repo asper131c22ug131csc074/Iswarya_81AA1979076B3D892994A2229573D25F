@@ -1,7 +1,7 @@
 # 1.1 Implement a recursive function to calculate the factorial of a given number.
 def fact(s):
   if s == 0:
-    return 1
+    return 3
   else:
     return s * fact(s - 1)
 
